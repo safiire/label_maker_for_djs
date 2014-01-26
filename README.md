@@ -27,4 +27,12 @@ Installation
 Install this repository in the same directory as your albums, running it wil automatically produce a label.html file in each album directory, which you can open in your browser and print.
 Make sure you have "Print Background colors and Images" enabled during printing, and the tracks will be color coded as they are on the camalot key wheel.
 
-You can also run the script and give it a list of album directories on the commandline to process.
+You must follow the music file naming conventions in order to have this work correctly.
+
+You can also run the script and give it a list of album directories on the commandline to process, or require it and use it as a library.
+
+
+Example Output
+==============
+
+![Insert Example](example_output.png "Example Output")
